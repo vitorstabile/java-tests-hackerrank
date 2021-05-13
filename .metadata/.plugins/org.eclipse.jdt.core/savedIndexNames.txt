@@ -1,6 +1,2 @@
 INDEX VERSION 1.131+C:\Users\solun\Documents\Projetos\Projetos Java\hackerrank-tests\.metadata\.plugins\org.eclipse.jdt.core
-3360893784.index
-2605754515.index
-2613403514.index
-4181412172.index
-643192206.index
+2730050949.index
